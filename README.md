@@ -1,1 +1,1 @@
-Event
+Event-regesrteration managemant-system
